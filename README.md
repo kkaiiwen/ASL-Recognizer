@@ -1,4 +1,4 @@
 # ASL-Recognizer
 
-Deep Learning Sign Language Recognizer with TensorFlow Object Detection in Python.
+A Deep Learning-Driven Sign Language Recognizer with TensorFlow Object Detection in Python.
 
